@@ -1,5 +1,4 @@
 pkgname=flatplat-theme-laptop
-epoch=1
 pkgver=3.22.20161109
 pkgrel=2
 pkgdesc="A Material Design-like flat theme for GTK3, GTK2, Metacity, and GNOME-Shell. This package does not contain chrome skin extension."
